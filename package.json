@@ -1,0 +1,14 @@
+{
+	"name": "aws-worker",
+	"version": "3.0.6",
+	"description": "AWS SDK helper methods.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "ogm-crbt",
+	"license": "ISC",
+	"dependencies": {
+		"aws-sdk": "^2.67.0"
+	}
+}
